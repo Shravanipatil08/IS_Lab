@@ -34,7 +34,7 @@ public class RSAtext_Algorithm
         // Step 1: Take primes from user
         try (Scanner sc = new Scanner(System.in)) 
         {
-            System.out.println("\n--- Trupti Rajgonda Zore , 24UAM316 ---\n");
+            System.out.println("\n--- Shravani Sachin Patil , 24UAM317 ---\n");
 
             // Step 1: Take primes from user
             System.out.print("Enter prime number p = ");
@@ -91,4 +91,5 @@ public class RSAtext_Algorithm
             System.out.println();
         }
     }
+
 }
