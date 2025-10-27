@@ -152,7 +152,7 @@ public class playfairCipher
     public static void main(String[] args) 
     {
         try (Scanner sc = new Scanner(System.in)) {
-            System.out.println("\n--- Trupti Rajgonda Zore , 24UAM316 ---\n");
+            System.out.println("\n--- Shravani Sachin Patil , 24UAM317 ---\n");
 
             System.out.print("Enter key: ");
             String key = sc.nextLine();
@@ -178,4 +178,5 @@ public class playfairCipher
             System.out.println();
         }
     }
+
 }
