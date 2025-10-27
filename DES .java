@@ -93,9 +93,9 @@ public class DES
 
     public static void main(String[] args) 
     {
-        System.out.println("\n--- Trupti Rajgonda Zore , 24UAM316 ---\n");
+        System.out.println("\n--- Shravani Sachin Patil , 24UAM317 ---\n");
 
-        String plainText = "Trupti";
+        String plainText = "Shravani";
         long block = stringToBlock(plainText);
         long encrypted = encrypt(block);
         long decrypted = decrypt(encrypted);
@@ -107,4 +107,5 @@ public class DES
         System.out.println("Decrypted: " + blockToString(decrypted));
         System.out.println();
     }
+
 }
