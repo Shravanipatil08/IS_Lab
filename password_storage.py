@@ -2,7 +2,7 @@ import bcrypt
 import hashlib
 import time
 
-print("Name = Atharv Anil Niprul")
+print("Name = Shravani Sachin Patil ")
 
 password = input("Enter password: ")
 
@@ -21,4 +21,5 @@ print("\nPassword without salts.")
 print("Hash 1:", sha_hash1)
 print("Hash 2:", sha_hash2)
 print("Identical hashes for same passwords !")
+
 
