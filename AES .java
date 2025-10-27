@@ -65,9 +65,9 @@ public class AES
 
     public static void main(String[] args) 
     {
-        System.out.println("\n--- Trupti Rajgonda Zore , 24UAM316 ---\n");
+        System.out.println("\n--- Shravani Sachin Patil , 24UAM317 ---\n");
 
-        String plainText = "Trupti Zore";
+        String plainText = "Shravani Patil";
         long block = stringToBlock(plainText);
         long encrypted = encrypt(block);
         long decrypted = decrypt(encrypted);
@@ -79,5 +79,6 @@ public class AES
         System.out.println("Decrypted: " + blockToString(decrypted));
         System.out.println();
     }
+
 
 }
