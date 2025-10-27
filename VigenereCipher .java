@@ -61,7 +61,7 @@ public class VigenereCipher
    {
        try (Scanner var1 = new Scanner(System.in)) {
 
-         System.out.println("\n--- Trupti Rajgonda Zore , 24UAM316 ---\n");
+         System.out.println("\n--- Shravani Sachin Patil , 24UAM317 ---\n");
 
          System.out.println("Enter plaintext = ");
          String var2 = var1.nextLine();
@@ -76,4 +76,5 @@ public class VigenereCipher
 
        }
    }
+
 }
